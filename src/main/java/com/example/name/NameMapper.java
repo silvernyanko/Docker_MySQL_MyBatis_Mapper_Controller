@@ -10,8 +10,6 @@ public interface NameMapper {
     @Select("SELECT * FROM names")
     List<Name> findAll();
 
-    @Select("SELECT * FROM names WHERE name LIKE CONCAT(#{name}, '%') AND name LIKE CONCAT('%', #{suffix}) AND name LIKE CONCAT('%', #{contains},'%')")
+    @Select("SELECT * FROM names WHERE name LIKE CONCAT(#{prefix}, '%') AND name LIKE CONCAT('%', #{suffix}) AND name LIKE CONCAT('%', #{contains},'%')")
     List<Name> findByNameStartingWith(String prefix, String suffix, String contains);
-
-
 }

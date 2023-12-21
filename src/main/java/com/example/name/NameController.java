@@ -17,6 +17,9 @@ public class NameController {
 
     @GetMapping("/names")
     public List<Name> findByNames(NameSearchRequest request) {
+        System.out.println(request.getStartsWith());
+        System.out.println(request.getEndsWith());
+        System.out.println(request.getContains());
         return nameMapper.findByNameStartingWith(request.getStartsWith(), request.getEndsWith(), request.getContains());
     }
 }

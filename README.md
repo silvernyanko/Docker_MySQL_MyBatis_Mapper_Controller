@@ -22,13 +22,17 @@
 
 1. curlを用いた実行結果
 
-// エラー対処中
+![Windows PowerShell 2023_12_21 15_05_28](https://github.com/silvernyanko/assignment8/assets/145736051/0f386ad1-c52b-4c55-93b8-370097dce6dc)
 
 
 
 2. Postmanを用いた実行結果
 
-// エラー対処中
+・startsWith
+![query _ RaiseTech _ Postman API Network 2023_12_21 14_55_12](https://github.com/silvernyanko/assignment8/assets/145736051/01dae3ab-09d2-4553-8d7c-f0717330c9c6)
 
+・endsWith
+![Untitled Request _ RaiseTech _ Postman API Network 2023_12_21 15_02_37](https://github.com/silvernyanko/assignment8/assets/145736051/3d5bac37-6e6e-42cf-bd9f-709ed259588b)
 
-
+・contains
+![localhost_8080_names_contains=%E5%8D%97 _ RaiseTech _ Postman API Network 2023_12_21 15_06_00](https://github.com/silvernyanko/assignment8/assets/145736051/10244c35-5130-4baa-aae0-4f055fd073c6)
