@@ -36,3 +36,13 @@
 
 ・contains
 ![localhost_8080_names_contains=%E5%8D%97 _ RaiseTech _ Postman API Network 2023_12_21 15_06_00](https://github.com/silvernyanko/assignment8/assets/145736051/10244c35-5130-4baa-aae0-4f055fd073c6)
+
+| ％エンコーディング  |  漢字  |
+|:----------:|:----:|
+| %E6%A8%AA  |  横   |
+| %E6%A0%A1  |  校   |
+| %E5%8D%97  |  南   |
+
+3. Postmanを用いた実行結果(漢字を直接入力)
+
+![query _ RaiseTech _ Postman API Network 2023_12_21 20_05_26](https://github.com/silvernyanko/assignment8/assets/145736051/71603601-111e-4d7d-99e3-7883a9b210bd)
