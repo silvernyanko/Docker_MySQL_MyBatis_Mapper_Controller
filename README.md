@@ -64,6 +64,6 @@
 | %E6%A0%A1  |  校   |
 | %E5%8D%97  |  南   |
 
-3. Postmanを用いた実行結果(漢字を直接入力)
+3. Postmanを用いた実行結果(漢字を直接入力して、すべての条件を指定した)
 
 ![query _ RaiseTech _ Postman API Network 2023_12_21 20_05_26](https://github.com/silvernyanko/assignment8/assets/145736051/71603601-111e-4d7d-99e3-7883a9b210bd)
